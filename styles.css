@@ -1,0 +1,46 @@
+/* css styles */
+
+$primary: #C95C74;
+$secondary: #6FA3A8;
+$body-bg: #FAF7F6;
+$body-color: #3A2F2F;
+
+/*-- scss:rules --*/
+
+body {
+  background-color: $body-bg;
+  color: $body-color;
+}
+
+.navbar,
+.navbar-dark,
+.navbar-light {
+  background-color: #FFFFFF !important;
+}
+
+a,
+.nav-link,
+.navbar-brand {
+  color: #C95C74 !important;
+}
+
+a:hover,
+.nav-link:hover {
+  color: #E8A1A9 !important;
+}
+
+.btn-primary {
+  background-color: #C95C74 !important;
+  border-color: #C95C74 !important;
+}
+
+.btn-secondary {
+  background-color: #6FA3A8 !important;
+  border-color: #6FA3A8 !important;
+}
+
+.card,
+.panel,
+.content-block {
+  background-color: #F1E4E6 !important;
+}

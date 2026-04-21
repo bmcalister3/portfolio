@@ -1,0 +1,120 @@
+---
+title: "Data and Key Findings"
+---
+
+## **(For Researchers)**
+
+### Research Question
+
+Among age-eligible women in [BRFSS 2024,](https://www.cdc.gov/brfss/annual_data/annual_2024.html) what healthcare access, demographic and socioeconomic factors are associated with being up to date on breast and cervical cancer screening?
+
+**Sub questions:**
+
+1.  Does having a recent routine checkup make women more likely to be up to date on screenings?
+2.  Does having a personal doctor independently increase screening adherence?
+3.  Does having a personal care provider reduce screening gaps between insured and uninsured women?
+4.  Do cost-related barriers reduce likelihood of screening?
+5.  Do racial and ethnic disparities in screening persist after adjusting for healthcare access factors such as insurance status, having a personal doctor, and recent routine checkups?
+
+![](Divider%20Line.gif)
+
+### **Data Source & Population**
+
+This analysis used 2024 Behavioral Risk Factor Surveillance System (BRFSS) data to examine cancer screening behaviors among age-eligible women in the United States.
+
+-   **Breast cancer (ages 50–74):** \~71% up to date on mammography
+
+-   **Cervical cancer (ages 21–65):** \~76% up to date on screening 
+
+------------------------------------------------------------------------
+
+## **Key Findings**
+
+### **1. Routine Checkups Are the Strongest Predictor**
+
+Having a recent routine medical visit was the most influential factor associated with screening adherence.
+
+-   **Mammography:** Over **4x higher odds** of being up to date (OR ≈ 4.34)
+
+-   **Cervical screening:** About **2x higher odds** (OR ≈ 2.19) 
+
+**Takeaway:** Routine healthcare visits are a critical for preventive care.
+
+------------------------------------------------------------------------
+
+### **2. Having a Personal Doctor Improves Screening**
+
+Independent of checkups, having a consistent healthcare provider increases screening rates.
+
+-   **Mammography:** OR ≈ 2.37
+
+-   **Cervical screening:** OR ≈ 2.12 
+
+**Takeaway:** Continuity of care matters as ongoing provider relationships support prevention and screening
+
+------------------------------------------------------------------------
+
+### **3. Insurance Amplifies the Benefit of Provider Access**
+
+Having both insurance and a personal doctor produces stronger effects than either alone.
+
+-   **Uninsured + provider:** modest increase (OR \~1.5)
+
+-   **Insured + provider:** much stronger increase (OR \~2.0–2.3) 
+
+**Takeaway:** Access works best when coverage + provider accessare both present.
+
+------------------------------------------------------------------------
+
+### **4. Cost Barriers Reduce Screening—Even With Insurance**
+
+Financial barriers significantly decrease screening adherence.
+
+-   **Mammography:** OR ≈ 0.60
+
+-   **Cervical screening:** OR ≈ 0.85 
+
+**Takeaway:** Insurance alone is not enough because out of pocket cost may still limit and defluence obtaining care
+
+------------------------------------------------------------------------
+
+### **5. Disparities Persist Across Racial/Ethnic Groups**
+
+After adjusting for access and socioeconomic factors, disparities still remain.
+
+-   **Breast cancer screening:**
+
+    -   Higher odds among Black women (OR ≈ 1.33)
+
+    -   Lower odds among several other groups (Asian, American Indian/ Alaska Native, multiracial)
+
+-   **Cervical cancer screening:**
+
+    -   Most racial/ethnic groups had **lower odds** compared to White women
+
+    -   Largest gaps observed among Asian and AIAN populations 
+
+**Takeaway:**\
+While access improves outcomes, it does not fully eliminate disparities, suggesting additional structural, cultural, and informational barriers.
+
+------------------------------------------------------------------------
+
+## **Big Picture** 
+
+-   Access to care (checkups, insurance, providers) strongly drives screening behavior
+
+-   Financial barriers remain a major obstacle even among insured individuals
+
+-   Disparities are multifactorial, extending beyond access alone
+
+-   Improving outcomes requires addressing:
+
+    -   Healthcare access
+
+    -   Cost barriers
+
+    -   **Health literacy and awareness gaps**
+
+![](images/Table1-02.html){fig-align="left"}
+
+![](images/Table2.html){fig-align="right"}

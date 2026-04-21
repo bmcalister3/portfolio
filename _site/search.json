@@ -1,0 +1,212 @@
+[
+  {
+    "objectID": "Overview.html",
+    "href": "Overview.html",
+    "title": "Project Home",
+    "section": "",
+    "text": "About The Project\n\nThis project explores disparities in breast and cervical cancer outcomes, with a focus on how access to healthcare influences screening and early detection. Using national data (Behavioral Risk Factor Surveillance System), I examine how factors like insurance, routine checkups, and having a personal doctor impact whether women receive life-saving screenings. \n\n\nWhy This Matters\nBreast and cervical cancers are among the most common cancers affecting women worldwide. While both are highly treatable, and in some cases preventable, when detected early, thousands of women still die each year due to delayed diagnosis and limited access to care. Additonally, many women are not aware of when or how to get screened. Gaps in health literacy and access to clear, culturally relevant information contribute to delayed diagnosis and missed prevention opportunities. These knowledge gaps, combined with structural barriers, continue to drive preventable deaths.\n\n\nWho This Affects\nThese disparities disproportionately impact:\n\nWomen in low-income communities\nUninsured or underinsured individuals\nRacial/ethnic minority populations\nWomen with limited access to routine healthcare/ education\n\n\n\nKey Statistics\n\n2.3 million new breast cancer cases globally each year 🔗\n~670,000 breast cancer deaths annually 🔗\n~660,000 cervical cancer cases worldwide 🔗\n~350,000 cervical cancer deaths annually 🔗\nNearly 4,000 U.S. women die from cervical cancer each year 🔗\n\nDespite cervical cancer being considered one of the most preventable cancers"
+  },
+  {
+    "objectID": "About The Cancers.html",
+    "href": "About The Cancers.html",
+    "title": "About The Cancers",
+    "section": "",
+    "text": "Breast Cancer\nBreast cancer occurs when abnormal cells grow uncontrollably in breast tissue. It is the most commonly diagnosed cancer among women in the United States and the second leading cause of cancer-related death. Early detection through routine mammograms significantly improves survival rates.\nSome key risk factors include:\n\nIncreasing age\nFamily history and genetic mutations (such as BRCA1 and BRCA2)\nObesity\nAlcohol use\nPhysical inactivity\nDiet\n\nWhile about 5–10% of breast cancers are hereditary, most cases occur in individuals without a known genetic mutation.\nLike cervical cancer, breast cancer progresses through stages:\n\nStage 0–1: Cancer is localized within the breast\nStage 2–3: Tumors grow and may spread to nearby lymph nodes\nStage 4: Cancer spreads (metastasizes) to distant organs such as the bones, liver, lungs, or brain\n\n\nEarly detection is critical. Routine mammograms can identify breast cancer before symptoms appear, when it is most treatable and survival rates are highest.\nWhy this matters:\nAlthough breast cancer is common, outcomes are significantly better when it is detected early. Delays in screening and diagnosis can lead to more advanced disease and poorer survival.\n\n\nCervical Cancer\nCervical cancer develops from abnormal cells in the cervix, often caused by persistent infection with high-risk types of human papillomavirus (HPV). It progresses slowly, which makes regular screening critical for early detection. \nCervical cancer is one of the most preventable cancers, yet it continues to cause preventable deaths due to gaps in screening and vaccination.\nCervical cancer progresses through stages:\n\nStage 1: Cancer is limited to the cervix\nStage 2: Cancer spreads beyond the cervix but not to the pelvic wall\nStage 3: Cancer extends to the pelvic wall or lower vagina\nStage 4: Cancer spreads to other parts of the body\n\n\nBecause this progression is gradual, routine screening (Pap tests and HPV testing) can detect abnormal cells before they become cancerous. This makes cervical cancer one of the most preventable cancers.\nMost cases of cervical cancer are caused by persistent infection with high-risk types of human papillomavirus (HPV), a common sexually transmitted infection. With HPV vaccination and regular screening, the risk of developing cervical cancer can be significantly reduced.\nWhy this matters:\nWhen detected early, cervical cancer is highly treatable. However, lack of screening and awareness can lead to late-stage diagnosis, which is more difficult to treat and has worse outcomes.\n\n\n\n\nKey Takeaway\nBoth breast and cervical cancers:\n\nHave clear screening methods\nAre highly treatable when detected early\nYet still cause preventable deaths due to gaps in access, awareness, and timely care"
+  },
+  {
+    "objectID": "Data and Key Findings .html",
+    "href": "Data and Key Findings .html",
+    "title": "Data and Key Findings",
+    "section": "",
+    "text": "Among age-eligible women in BRFSS 2024, what healthcare access, demographic and socioeconomic factors are associated with being up to date on breast and cervical cancer screening?\nSub questions:\n\nDoes having a recent routine checkup make women more likely to be up to date on screenings?\nDoes having a personal doctor independently increase screening adherence?\nDoes having a personal care provider reduce screening gaps between insured and uninsured women?\nDo cost-related barriers reduce likelihood of screening?\nDo racial and ethnic disparities in screening persist after adjusting for healthcare access factors such as insurance status, having a personal doctor, and recent routine checkups?\n\n\n\n\n\nThis analysis used 2024 Behavioral Risk Factor Surveillance System (BRFSS) data to examine cancer screening behaviors among age-eligible women in the United States.\n\nBreast cancer (ages 50–74): ~71% up to date on mammography\nCervical cancer (ages 21–65): ~76% up to date on screening"
+  },
+  {
+    "objectID": "Data and Key Findings .html#for-researchers",
+    "href": "Data and Key Findings .html#for-researchers",
+    "title": "Data and Key Findings",
+    "section": "",
+    "text": "Among age-eligible women in BRFSS 2024, what healthcare access, demographic and socioeconomic factors are associated with being up to date on breast and cervical cancer screening?\nSub questions:\n\nDoes having a recent routine checkup make women more likely to be up to date on screenings?\nDoes having a personal doctor independently increase screening adherence?\nDoes having a personal care provider reduce screening gaps between insured and uninsured women?\nDo cost-related barriers reduce likelihood of screening?\nDo racial and ethnic disparities in screening persist after adjusting for healthcare access factors such as insurance status, having a personal doctor, and recent routine checkups?\n\n\n\n\n\nThis analysis used 2024 Behavioral Risk Factor Surveillance System (BRFSS) data to examine cancer screening behaviors among age-eligible women in the United States.\n\nBreast cancer (ages 50–74): ~71% up to date on mammography\nCervical cancer (ages 21–65): ~76% up to date on screening"
+  },
+  {
+    "objectID": "Data and Key Findings .html#key-findings",
+    "href": "Data and Key Findings .html#key-findings",
+    "title": "Data and Key Findings",
+    "section": "Key Findings",
+    "text": "Key Findings\n\n1. Routine Checkups Are the Strongest Predictor\nHaving a recent routine medical visit was the most influential factor associated with screening adherence.\n\nMammography: Over 4x higher odds of being up to date (OR ≈ 4.34)\nCervical screening: About 2x higher odds (OR ≈ 2.19) \n\nTakeaway: Routine healthcare visits are a critical for preventive care.\n\n\n\n2. Having a Personal Doctor Improves Screening\nIndependent of checkups, having a consistent healthcare provider increases screening rates.\n\nMammography: OR ≈ 2.37\nCervical screening: OR ≈ 2.12 \n\nTakeaway: Continuity of care matters as ongoing provider relationships support prevention and screening\n\n\n\n3. Insurance Amplifies the Benefit of Provider Access\nHaving both insurance and a personal doctor produces stronger effects than either alone.\n\nUninsured + provider: modest increase (OR ~1.5)\nInsured + provider: much stronger increase (OR ~2.0–2.3) \n\nTakeaway: Access works best when coverage + provider accessare both present.\n\n\n\n4. Cost Barriers Reduce Screening—Even With Insurance\nFinancial barriers significantly decrease screening adherence.\n\nMammography: OR ≈ 0.60\nCervical screening: OR ≈ 0.85 \n\nTakeaway: Insurance alone is not enough because out of pocket cost may still limit and defluence obtaining care\n\n\n\n5. Disparities Persist Across Racial/Ethnic Groups\nAfter adjusting for access and socioeconomic factors, disparities still remain.\n\nBreast cancer screening:\n\nHigher odds among Black women (OR ≈ 1.33)\nLower odds among several other groups (Asian, American Indian/ Alaska Native, multiracial)\n\nCervical cancer screening:\n\nMost racial/ethnic groups had lower odds compared to White women\nLargest gaps observed among Asian and AIAN populations \n\n\nTakeaway:\nWhile access improves outcomes, it does not fully eliminate disparities, suggesting additional structural, cultural, and informational barriers."
+  },
+  {
+    "objectID": "Data and Key Findings .html#big-picture-takeaways",
+    "href": "Data and Key Findings .html#big-picture-takeaways",
+    "title": "Data and Key Findings",
+    "section": "Big Picture Takeaways",
+    "text": "Big Picture Takeaways\n\nAccess to care (checkups, insurance, providers) strongly drives screening behavior\nFinancial barriers remain a major obstacle even among insured individuals\nDisparities are multifactorial, extending beyond access alone\nImproving outcomes requires addressing:\n\nHealthcare access\nCost barriers\nHealth literacy and awareness gaps"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "About Me.html",
+    "href": "About Me.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi, I’m Bianca McAlister, an MPH student at Morehouse School of Medicine. I am passionate about women’s health, cancer prevention, and advancing health equity in underserved communities. My work focuses on understanding how access to care shapes health outcomes and how we can reduce preventable disease through early detection and education.\n\n\n\nMPH Candidate, Epidemiology Affinity Group\nMorehouse School of Medicine\nExpected Graduation, May 2026\n\n\n\nResearch Interests: Women’s Health, Chronic Disease, Cancer Prevention\nPublic Health Issues of Concern: Access to care, Reducing chronic illness, Drug Epidemic in the United States\nPopulation of Interest: Women, Underserved Populations, Unhoused Populations"
+  },
+  {
+    "objectID": "About Me.html#bianca-mcalister",
+    "href": "About Me.html#bianca-mcalister",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi, I’m Bianca McAlister, an MPH student at Morehouse School of Medicine. I am passionate about women’s health, cancer prevention, and advancing health equity in underserved communities. My work focuses on understanding how access to care shapes health outcomes and how we can reduce preventable disease through early detection and education.\n\n\n\nMPH Candidate, Epidemiology Affinity Group\nMorehouse School of Medicine\nExpected Graduation, May 2026\n\n\n\nResearch Interests: Women’s Health, Chronic Disease, Cancer Prevention\nPublic Health Issues of Concern: Access to care, Reducing chronic illness, Drug Epidemic in the United States\nPopulation of Interest: Women, Underserved Populations, Unhoused Populations"
+  },
+  {
+    "objectID": "Practice.html",
+    "href": "Practice.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "To make a list:\n\na\nb\nc"
+  },
+  {
+    "objectID": "Practice.html#level-2-header",
+    "href": "Practice.html#level-2-header",
+    "title": "Introduction",
+    "section": "",
+    "text": "To make a list:\n\na\nb\nc"
+  },
+  {
+    "objectID": "Prevention and Screening.html",
+    "href": "Prevention and Screening.html",
+    "title": "Prevention and Screening",
+    "section": "",
+    "text": "Prevention\nHPV Vaccination\n\nProtects against high-risk HPV types responsible for most cervical cancers\nRecommended to begin vaccination at ages 11–12\nHPV causes over 90% of cervical cancers\n\nThere are over 200 strains of HPV, yet the following are the most high risk\n\n12 high-risk HPV types: HPV 16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, and 59\n\nHPV Strains 16 and 18 are responsible for the most HPV related cancers\n\n\n\n\n\nLifestyle Factors (Breast Cancer)\n\nMaintain a healthy weight\nLimit alcohol intake\nStay physically active\nBreastfeeding (when possible) may reduce risk\n\n\n\nScreening\nMammography (Breast Cancer)\n\nRecommended starting around age 40 (varies by guideline)\nDetects cancer early before symptoms appear\nEarly-stage detection = significantly higher survival\n\n\nCervical Cancer Screening\n\nPap tests and HPV testing\nRecommended for women ages 21–65\nDetects abnormal cells before they become cancer"
+  },
+  {
+    "objectID": "Disparities and Why They Exist.html",
+    "href": "Disparities and Why They Exist.html",
+    "title": "Disparities and Why They Exist",
+    "section": "",
+    "text": "Even with effective prevention tools, not everyone benefits equally. Breast and cervical cancers are among the most preventable and treatable cancers, yet not everyone has the same opportunity to benefit from early detection and care.\nDisparities in access to care lead to some women being more likely to be diagnosed at later stages, experiencing delays in treatment, or having worse outcomes. These differences are not random, as they reflect broader inequities in access to healthcare, information, and resources."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Phase3Website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Data and Key Findings.html",
+    "href": "Data and Key Findings.html",
+    "title": "Data and Key Findings",
+    "section": "",
+    "text": "Among age-eligible women in BRFSS 2024, what healthcare access, demographic and socioeconomic factors are associated with being up to date on breast and cervical cancer screening?\nSub questions:\n\nDoes having a recent routine checkup make women more likely to be up to date on screenings?\nDoes having a personal doctor independently increase screening adherence?\nDoes having a personal care provider reduce screening gaps between insured and uninsured women?\nDo cost-related barriers reduce likelihood of screening?\nDo racial and ethnic disparities in screening persist after adjusting for healthcare access factors such as insurance status, having a personal doctor, and recent routine checkups?\n\n\n\n\n\nThis analysis used 2024 Behavioral Risk Factor Surveillance System (BRFSS) data to examine cancer screening behaviors among age-eligible women in the United States.\n\nBreast cancer (ages 50–74): ~71% up to date on mammography\nCervical cancer (ages 21–65): ~76% up to date on screening"
+  },
+  {
+    "objectID": "Data and Key Findings.html#for-researchers",
+    "href": "Data and Key Findings.html#for-researchers",
+    "title": "Data and Key Findings",
+    "section": "",
+    "text": "Among age-eligible women in BRFSS 2024, what healthcare access, demographic and socioeconomic factors are associated with being up to date on breast and cervical cancer screening?\nSub questions:\n\nDoes having a recent routine checkup make women more likely to be up to date on screenings?\nDoes having a personal doctor independently increase screening adherence?\nDoes having a personal care provider reduce screening gaps between insured and uninsured women?\nDo cost-related barriers reduce likelihood of screening?\nDo racial and ethnic disparities in screening persist after adjusting for healthcare access factors such as insurance status, having a personal doctor, and recent routine checkups?\n\n\n\n\n\nThis analysis used 2024 Behavioral Risk Factor Surveillance System (BRFSS) data to examine cancer screening behaviors among age-eligible women in the United States.\n\nBreast cancer (ages 50–74): ~71% up to date on mammography\nCervical cancer (ages 21–65): ~76% up to date on screening"
+  },
+  {
+    "objectID": "Data and Key Findings.html#key-findings",
+    "href": "Data and Key Findings.html#key-findings",
+    "title": "Data and Key Findings",
+    "section": "Key Findings",
+    "text": "Key Findings\n\n1. Routine Checkups Are the Strongest Predictor\nHaving a recent routine medical visit was the most influential factor associated with screening adherence.\n\nMammography: Over 4x higher odds of being up to date (OR ≈ 4.34)\nCervical screening: About 2x higher odds (OR ≈ 2.19) \n\nTakeaway: Routine healthcare visits are a critical for preventive care.\n\n\n\n2. Having a Personal Doctor Improves Screening\nIndependent of checkups, having a consistent healthcare provider increases screening rates.\n\nMammography: OR ≈ 2.37\nCervical screening: OR ≈ 2.12 \n\nTakeaway: Continuity of care matters as ongoing provider relationships support prevention and screening\n\n\n\n3. Insurance Amplifies the Benefit of Provider Access\nHaving both insurance and a personal doctor produces stronger effects than either alone.\n\nUninsured + provider: modest increase (OR ~1.5)\nInsured + provider: much stronger increase (OR ~2.0–2.3) \n\nTakeaway: Access works best when coverage + provider accessare both present.\n\n\n\n4. Cost Barriers Reduce Screening—Even With Insurance\nFinancial barriers significantly decrease screening adherence.\n\nMammography: OR ≈ 0.60\nCervical screening: OR ≈ 0.85 \n\nTakeaway: Insurance alone is not enough because out of pocket cost may still limit and defluence obtaining care\n\n\n\n5. Disparities Persist Across Racial/Ethnic Groups\nAfter adjusting for access and socioeconomic factors, disparities still remain.\n\nBreast cancer screening:\n\nHigher odds among Black women (OR ≈ 1.33)\nLower odds among several other groups (Asian, American Indian/ Alaska Native, multiracial)\n\nCervical cancer screening:\n\nMost racial/ethnic groups had lower odds compared to White women\nLargest gaps observed among Asian and AIAN populations \n\n\nTakeaway:\nWhile access improves outcomes, it does not fully eliminate disparities, suggesting additional structural, cultural, and informational barriers."
+  },
+  {
+    "objectID": "Data and Key Findings.html#big-picture-takeaways",
+    "href": "Data and Key Findings.html#big-picture-takeaways",
+    "title": "Data and Key Findings",
+    "section": "Big Picture Takeaways",
+    "text": "Big Picture Takeaways\n\nAccess to care (checkups, insurance, providers) strongly drives screening behavior\nFinancial barriers remain a major obstacle even among insured individuals\nDisparities are multifactorial, extending beyond access alone\nImproving outcomes requires addressing:\n\nHealthcare access\nCost barriers\nHealth literacy and awareness gaps"
+  },
+  {
+    "objectID": "Resources and Recommendations.html",
+    "href": "Resources and Recommendations.html",
+    "title": "Resources and Recommendations",
+    "section": "",
+    "text": "Based on this research, improving breast and cervical cancer outcomes requires more than medical advances it requires improving access, awareness, and trust in the healthcare system.\n\n\n\nIncrease access to routine care\n\nExpand availability of primary care providers\nEncourage annual checkups as a gateway to prevention\n\nReduce financial barriers\n\nExpand low-cost and free screening programs\nImprove insurance coverage and affordability\n\nStrengthen continuity of care\n\nIncrease access to personal healthcare providers\nSupport long-term patient-provider relationships\n\nImprove health literacy and awareness\n\nProvide clear, culturally relevant education on screening\nIncrease awareness of HPV, Pap tests, and mammograms\nEnsure patients understand when and why to get screened\n\nAddress structural inequities\n\nInvest in underserved communities\nExpand mobile clinics and community-based care\n\n\n\n\n\n\n\n\n\n1. Grady Health System (Atlanta)\n\nOffers breast and cervical cancer screenings\nSliding scale fees and financial assistance available\nStrong safety-net system serving uninsured populations\n👉 https://www.gradyhealth.org\n\n\n2. Fulton County Board of Health\n\nBreast and cervical cancer screening programs\nFamily planning + preventive services\nMultiple clinic locations across Atlanta\n👉 https://fultoncountyboh.com\n\n\n3. DeKalb County Board of Health\n\nPap tests, HPV services, and women’s health screenings\nLow-cost services for eligible residents\n👉 https://dekalbhealth.net\n\n\n4. Georgia Breast and Cervical Cancer Program (BCCP)\n\nFREE breast & cervical cancer screenings for eligible women\nCovers mammograms, Pap tests, and diagnostic follow-up\nCan also help with treatment coverage if diagnosed\n👉 https://dph.georgia.gov/bccp\n\n\n\n\n\n5. Black Women’s Wellness (Atlanta-based)\n\nFocuses on health equity for Black women\nProvides education, navigation, and screening support\n👉 https://bwwellness.org\n\n\n6. Sisters by Choice\n\nBreast cancer support, education, and advocacy\nFocus on early detection in Black communities\n👉 https://sistersbychoice.org\n\n\n7. HEAL Clinic (Morehouse School of Medicine)\n\nStudent-run clinic providing free care to underserved populations\nScreenings, education, and referrals\n\n\n\n\n\n8. American Cancer Society (Atlanta HQ)\n\nScreening guidelines\nPatient navigation support\nCancer education resources\n👉 https://www.cancer.org\n\n\n9. CDC Cancer Prevention Resources\n\nHPV vaccination info\nScreening recommendations\n👉 https://www.cdc.gov/cancer\n\n\n\n\n\n\n\nMammogram: Starting around age 40 (talk to your provider)\nPap test: Ages 21–65\nHPV vaccine: Ages 11–12 (can be given later if missed)\n\n\n\n\n\nEarly detection saves lives….but only if people have:\n\nAccess to care\nAffordable services\nClear information\nSupport to navigate the system\n\nPrevention is possible. Equity is the missing piece."
+  },
+  {
+    "objectID": "Resources and Recommendations.html#what-needs-to-change",
+    "href": "Resources and Recommendations.html#what-needs-to-change",
+    "title": "Resources and Recommendations",
+    "section": "",
+    "text": "Based on this research, improving breast and cervical cancer outcomes requires more than medical advances it requires improving access, awareness, and trust in the healthcare system.\n\n\n\nIncrease access to routine care\n\nExpand availability of primary care providers\nEncourage annual checkups as a gateway to prevention\n\nReduce financial barriers\n\nExpand low-cost and free screening programs\nImprove insurance coverage and affordability\n\nStrengthen continuity of care\n\nIncrease access to personal healthcare providers\nSupport long-term patient-provider relationships\n\nImprove health literacy and awareness\n\nProvide clear, culturally relevant education on screening\nIncrease awareness of HPV, Pap tests, and mammograms\nEnsure patients understand when and why to get screened\n\nAddress structural inequities\n\nInvest in underserved communities\nExpand mobile clinics and community-based care"
+  },
+  {
+    "objectID": "Resources and Recommendations.html#atlanta-based-resources",
+    "href": "Resources and Recommendations.html#atlanta-based-resources",
+    "title": "Resources and Recommendations",
+    "section": "",
+    "text": "1. Grady Health System (Atlanta)\n\nOffers breast and cervical cancer screenings\nSliding scale fees and financial assistance available\nStrong safety-net system serving uninsured populations\n👉 https://www.gradyhealth.org\n\n\n2. Fulton County Board of Health\n\nBreast and cervical cancer screening programs\nFamily planning + preventive services\nMultiple clinic locations across Atlanta\n👉 https://fultoncountyboh.com\n\n\n3. DeKalb County Board of Health\n\nPap tests, HPV services, and women’s health screenings\nLow-cost services for eligible residents\n👉 https://dekalbhealth.net\n\n\n4. Georgia Breast and Cervical Cancer Program (BCCP)\n\nFREE breast & cervical cancer screenings for eligible women\nCovers mammograms, Pap tests, and diagnostic follow-up\nCan also help with treatment coverage if diagnosed\n👉 https://dph.georgia.gov/bccp\n\n\n\n\n\n5. Black Women’s Wellness (Atlanta-based)\n\nFocuses on health equity for Black women\nProvides education, navigation, and screening support\n👉 https://bwwellness.org\n\n\n6. Sisters by Choice\n\nBreast cancer support, education, and advocacy\nFocus on early detection in Black communities\n👉 https://sistersbychoice.org\n\n\n7. HEAL Clinic (Morehouse School of Medicine)\n\nStudent-run clinic providing free care to underserved populations\nScreenings, education, and referrals\n\n\n\n\n\n8. American Cancer Society (Atlanta HQ)\n\nScreening guidelines\nPatient navigation support\nCancer education resources\n👉 https://www.cancer.org\n\n\n9. CDC Cancer Prevention Resources\n\nHPV vaccination info\nScreening recommendations\n👉 https://www.cdc.gov/cancer"
+  },
+  {
+    "objectID": "Resources and Recommendations.html#when-should-you-get-screened-quick-guide",
+    "href": "Resources and Recommendations.html#when-should-you-get-screened-quick-guide",
+    "title": "Resources and Recommendations",
+    "section": "",
+    "text": "Mammogram: Starting around age 40 (talk to your provider)\nPap test: Ages 21–65\nHPV vaccine: Ages 11–12 (can be given later if missed)"
+  },
+  {
+    "objectID": "Resources and Recommendations.html#final-takeaway",
+    "href": "Resources and Recommendations.html#final-takeaway",
+    "title": "Resources and Recommendations",
+    "section": "",
+    "text": "Early detection saves lives….but only if people have:\n\nAccess to care\nAffordable services\nClear information\nSupport to navigate the system\n\nPrevention is possible. Equity is the missing piece."
+  },
+  {
+    "objectID": "Disparities and Why They Exist.html#what-the-data-shows",
+    "href": "Disparities and Why They Exist.html#what-the-data-shows",
+    "title": "Disparities and Why They Exist",
+    "section": "What the Data Shows",
+    "text": "What the Data Shows\nFindings from this study highlight that access to healthcare plays a major role in whether women receive recommended cancer screenings:\n\nWomen with a recent routine checkup had significantly higher screening rates\nHaving a personal healthcare provider increased the likelihood of screening\nInsurance coverage improved screening adherence\nCost-related barriers reduced the likelihood of being up to date on screening\n\nAt the same time, disparities across racial and ethnic groups persisted, even after accounting for some access-related factors, indicating that inequities are multi-factorial and deeply rooted."
+  },
+  {
+    "objectID": "Disparities and Why They Exist.html#key-drivers-of-disparities",
+    "href": "Disparities and Why They Exist.html#key-drivers-of-disparities",
+    "title": "Disparities and Why They Exist",
+    "section": "Key Drivers of Disparities",
+    "text": "Key Drivers of Disparities\n\n1. Access to Healthcare\nAccess to care is one of the strongest predictors of screening.\nIndividuals without:\n\nHealth insurance\nA regular healthcare provider\nRoutine medical visits\n\nare significantly less likely to receive preventive screenings.\nRoutine checkups often serve as the primary entry point into the healthcare system, where screenings are recommended, scheduled, and completed.\n\n\n\n2. Financial Barriers\nCost remains a major obstacle, even for those with insurance.\nOut-of-pocket costs, copays, transportation, and time off work can prevent individuals from seeking care. It many times becomes a domino effect.\n\n\n\n3. Health Literacy and Knowledge Gaps\nAccess alone is not enough—individuals must also understand when and why to seek care.\nMany people:\n\nAre unaware of recommended screening guidelines\nDo not fully understand the purpose of Pap tests or mammograms\nLack knowledge about HPV and its link to cervical cancer\n\nWithout clear, accessible, and culturally relevant health information, individuals may delay or forgo screening—even when services are available.\n\n\n\n4. Continuity of Care and Trust\nHaving a consistent relationship with a healthcare provider increases the likelihood of screening.\nContinuity of care:\n\nBuilds trust\nEncourages preventive care conversations\nImproves follow-up after abnormal results\n\nHowever, many individuals—especially those in underserved communities—lack access to a regular provider.\n\n\n\n5. Structural and Social Determinants of Health\nDisparities are also shaped by broader social and environmental conditions, including:\n\nIncome and socioeconomic status\nEducation level\nGeographic location (urban vs. rural access)\nTransportation barriers\nHistorical and systemic inequities in healthcare\n\nThese factors influence both access to care and health outcomes."
+  },
+  {
+    "objectID": "Disparities and Why They Exist.html#why-this-matters",
+    "href": "Disparities and Why They Exist.html#why-this-matters",
+    "title": "Disparities and Why They Exist",
+    "section": "Why This Matters",
+    "text": "Why This Matters\nWhen people face barriers to care, screening is delayed and cancers are more likely to be diagnosed at later, more serious stages.\nFor example; Black women experience significantly higher rates of delayed diagnosis and treatment for breast and cervical cancer compared to white women, contributing to a 38% higher breast cancer death rate and higher mortality for cervical cancer. 🔗"
+  },
+  {
+    "objectID": "Disparities and Why They Exist.html#connecting-it-all-back",
+    "href": "Disparities and Why They Exist.html#connecting-it-all-back",
+    "title": "Disparities and Why They Exist",
+    "section": "Connecting It All Back",
+    "text": "Connecting It All Back\nYour findings reinforce a key public health takeaway:\n\nImproving access to care significantly increases screening rates\nBut access alone does not fully eliminate disparities\n\nThis means that effective solutions must address:\n\nHealthcare access\nFinancial barriers\nHealth literacy and education\nStructural inequities"
+  },
+  {
+    "objectID": "Disparities and Why They Exist.html#section",
+    "href": "Disparities and Why They Exist.html#section",
+    "title": "Disparities and Why They Exist",
+    "section": "",
+    "text": "Barriers to Care\n\nLack of health insurance\nCost-related barriers\nNo regular healthcare provider\nLimited access to routine checkups\nHealth literacy gaps\nStructural and systemic inequities\n\n\nWhat the Data Shows\n\nWomen with recent checkups are significantly more likely to be screened\nHaving a personal doctor increases screening rates\nCost barriers reduce the likelihood of screening\nRacial disparities decrease when access to care is equalized"
+  },
+  {
+    "objectID": "Disparities and Why They Exist.html#why-do-these-disparities-exist",
+    "href": "Disparities and Why They Exist.html#why-do-these-disparities-exist",
+    "title": "Disparities and Why They Exist",
+    "section": "Why Do These Disparities Exist?",
+    "text": "Why Do These Disparities Exist?\n\nAccess to Healthcare\nNot everyone has consistent access to care.\nPeople without:\n\nHealth insurance\nA regular healthcare provider\nRoutine medical visits\n\nare less likely to receive recommended screenings like mammograms and Pap tests.\nFor many, a routine checkup is the first step in accessing preventive care and without it, screening opportunities are often missed.\n\n\n\nCost and Financial Barriers\nEven when services exist, they may not be affordable.\nBarriers can include:\n\nOut-of-pocket costs\nLack of insurance coverage / Full coverage insurance\nTransportation expenses\nTime off work\n\nThese challenges can delay or prevent individuals from seeking care altogether.\n\n\n\nHealth Literacy and Awareness\nUnderstanding healthcare is just as important as accessing it.\nMany individuals:\n\nDo not know they need to be screened\nAre unsure when to start screening\nDo not know how often screenings are needed\nMay not understand the purpose of tests like Pap smears or mammograms\nAre unaware of HPV and its role in cervical cancer\nMay have been misinformed or have stigma around the HPV vaccination\n\nWithout clear, accessible information, people may not seek care…even when it is available.\n\n\n\nContinuity of Care and Trust\nHaving a consistent relationship with a healthcare provider matters.\nA trusted provider can:\n\nRecommend screenings\nAnswer questions\nProvide follow-up care\nUnderstand medical history and social determinants\n\nHowever, many individuals especially in underserved communities lack access to ongoing, consistent care.\n\n\n\nStructural and Social Factors\nHealth outcomes are shaped by more than individual behavior.\nBroader factors include:\n\nIncome and socioeconomic status\nEducation\nNeighborhood and geographic location\nAccess to transportation\nHistorical and systemic inequities in healthcare\n\nThese conditions influence both access to care and health outcomes over time."
+  },
+  {
+    "objectID": "Data and Key Findings.html#big-picture",
+    "href": "Data and Key Findings.html#big-picture",
+    "title": "Data and Key Findings",
+    "section": "Big Picture",
+    "text": "Big Picture\n\nAccess to care (checkups, insurance, providers) strongly drives screening behavior\nFinancial barriers remain a major obstacle even among insured individuals\nDisparities are multifactorial, extending beyond access alone\nImproving outcomes requires addressing:\n\nHealthcare access\nCost barriers\nHealth literacy and awareness gaps"
+  }
+]
