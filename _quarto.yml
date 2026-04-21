@@ -3,10 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "Disparities in Breast and Cervical Outcomes"
+  title: "Disparities in Breast \nand Cervical Outcomes"
   navbar:
     left:
-      - href: Overview.qmd
+      - href: index.qmd
         text: Project Home
       - href: About Me.qmd
         text: About Me
