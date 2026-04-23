@@ -2,7 +2,7 @@
 title: "About The Cancers"
 ---
 
-# Breast Cancer
+# Breast Cancer [🔗](https://www.nationalbreastcancer.org/what-is-breast-cancer/#:~:text=Breast%20cancer%20is%20a%20disease%20in%20which,the%20causes%2C%20facts%2C%20risk%20factors%2C%20and%20more.)
 
 Breast cancer occurs when abnormal cells grow uncontrollably in breast tissue. It is the most commonly diagnosed cancer among women in the United States and the second leading cause of cancer-related death. Early detection through routine mammograms significantly improves survival rates.
 
@@ -37,7 +37,7 @@ Like cervical cancer, breast cancer progresses through stages:
 **Why this matters:**\
 Although breast cancer is common, outcomes are significantly better when it is detected early. Delays in screening and diagnosis can lead to more advanced disease and poorer survival.
 
-# Cervical Cancer
+# Cervical Cancer [🔗](https://www.cancer.gov/types/cervical/screening)
 
 Cervical cancer develops from abnormal cells in the cervix, often caused by persistent infection with high-risk types of human papillomavirus (HPV). It progresses slowly, which makes regular screening critical for early detection. 
 

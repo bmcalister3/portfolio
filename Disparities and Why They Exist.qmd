@@ -14,7 +14,7 @@ Disparities in access to care lead to some women being more likely to be diagnos
 
 ## **Why Do These Disparities Exist?**
 
-### **Access to Healthcare**
+### [**Access to Healthcare**](https://www.ncbi.nlm.nih.gov/books/NBK578537/)
 
 Not everyone has consistent access to care.
 
@@ -32,7 +32,7 @@ For many, a routine checkup is the first step in accessing preventive care and w
 
 ------------------------------------------------------------------------
 
-### **Cost and Financial Barriers**
+### [**Cost and Financial Barriers**](https://www.healthsystemtracker.org/chart-collection/cost-affect-access-care/)
 
 Even when services exist, they may not be affordable.
 
@@ -50,7 +50,7 @@ These challenges can delay or prevent individuals from seeking care altogether.
 
 ------------------------------------------------------------------------
 
-### **Health Literacy and Awareness**
+### [**Health Literacy and Awareness**](https://www.who.int/news-room/fact-sheets/detail/health-literacy)
 
 Understanding healthcare is just as important as accessing it.
 
@@ -72,7 +72,7 @@ Without clear, accessible information, people may not seek care...even when it i
 
 ------------------------------------------------------------------------
 
-### **Continuity of Care and Trust**
+### [**Continuity of Care and Trust**](https://iaphs.org/can-medical-mistrust-harming-americans-health/)
 
 Having a consistent relationship with a healthcare provider matters.
 
@@ -90,7 +90,7 @@ However, many individuals especially in underserved communities lack access to o
 
 ------------------------------------------------------------------------
 
-### **Structural and Social Factors**
+### [**Structural and Social Factors**](https://www.impact.upenn.edu/what-is-structural-inequality/)
 
 Health outcomes are shaped by more than individual behavior.
 

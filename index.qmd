@@ -1,5 +1,5 @@
 ---
-title: "Project Home"
+title: ""
 ---
 
 # About The Project

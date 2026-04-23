@@ -115,6 +115,6 @@ While access improves outcomes, it does not fully eliminate disparities, suggest
 
     -   **Health literacy and awareness gaps**
 
-![](images/Table1-02.html){fig-align="left"}
+![](Overview%20table.png)
 
-![](images/Table2.html){fig-align="right"}
+![](Picture1.png)
