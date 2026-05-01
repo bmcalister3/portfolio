@@ -1,26 +1,5 @@
-/* Core Palette */
+/* ===== BASE PAGE ===== */
 
-$primary: #C95C74;
-$secondary: #6FA3AB;
-$body-bg: #FAF7F6;
-$body-color: #4A3A32;
-$link-color: #C95C74;
-$link-hover: #6FA3AB;
-
-/* Supporting Tones */
-$light: #F1E4E6;
-$dark: #2E2535;
-$navbar-bg: #FFFFFF;
-$navbar-fg: #4A3A32;
-$border-color: #E7D7D9;
-
-/* Overrides */
-$card-bg: #F1E4E6;
-$card-border-color: transparent;
-
-/*--scss:rules--*/
-
-/* Page Base */
 html,
 body {
   background-color: #FAF7F6 !important;
@@ -28,20 +7,27 @@ body {
   line-height: 1.65;
 }
 
-/* General Text */
+
+/* ===== TEXT ===== */
+
+body,
+.quarto-container,
+.quarto-body,
+.main,
+.content,
+.page-columns,
+.page-full,
 p,
 li,
-div,
 span,
-td,
-th,
-label,
-details,
-summary {
-  color: #4A3A32 ;
+div,
+strong,
+b,
+em,
+i {
+  color: #4A3A32 !important;
 }
 
-/* Headings */
 h1,
 h2,
 h3,
@@ -53,59 +39,64 @@ h6 {
   font-weight: 600;
 }
 
-/* Links */
+
+/* ===== LINKS ===== */
+
 a {
   color: #C95C74 !important;
-  text-decoration-color: rgba(201, 92, 116, 0.35);
 }
 
 a:hover,
 a:focus {
-  color: #E8A1A9 !important;
-  text-decoration-color: rgba(232, 161, 169, 0.6);
+  color: #6FA3A8 !important;
 }
 
-/* Navbar*/
+
+/* ===== NAVBAR ===== */
+
 .navbar {
-  background-color: #FFFFFF !important;
-  border-bottom: 1px solid #E7D7D9;
+  background-color: #C95C74 !important;
 }
 
-/* Navbar Text */
 .navbar,
 .navbar * {
-  color: #4A3A32 !important;
+  color: #FFFFFF !important;
 }
 
-/* Website Title / Brand */
-.navbar-brand{
+.navbar-brand {
   white-space: normal !important;
   overflow-wrap: anywhere;
   word-break: break-word;
   line-height: 1.2;
-  max-width: 14rem;
+  max-width: 16rem;
   font-weight: 600;
 }
 
-/* Navbar Links */
-.navbar-nav .nav-link {
-  white-space: normal;
+
+/* ===== TABLE OF CONTENTS ===== */
+
+#TOC {
+  border-left: 2px solid #6FA3A8 !important;
 }
 
-/* Cards / Content Block */
-.card,
-.quarto-grid-item,
-.quarto-about-julia .about-entity,
-.panel,
-.content-block{
-  background-color: #F1E4E6 !important;
-  border: none !important;
-  border-radius: 12px;
-  box-shadow: 0 1px 2px rgba(46, 37, 37, 0.04);
+#TOC a {
+  color: #6FA3A8 !important;
 }
 
-/* Buttons */
-.btn-primary{
+#TOC a:hover,
+#TOC a:focus {
+  color: #C95C74 !important;
+}
+
+#TOC .active {
+  color: #6FA3A8 !important;
+  font-weight: 600;
+}
+
+
+/* ===== BUTTONS ===== */
+
+.btn-primary {
   background-color: #C95C74 !important;
   border-color: #C95C74 !important;
   color: #FFFFFF !important;
@@ -113,84 +104,19 @@ a:focus {
 
 .btn-primary:hover,
 .btn-primary:focus {
-  background-color: #B44E65 !important;
-  border-color: #B44E65 !important;
-}
-
-.btn-secondary {
-  background-color: #6FA3AB !important;
-  border-color: #6FA3AB !important;
+  background-color: #6FA3A8 !important;
+  border-color: #6FA3A8 !important;
   color: #FFFFFF !important;
 }
 
-.btn-secondary:hover,
-.btn-secondary:focus {
-  background-color: #5D8F94 !important;
-  border-color: #5D8F94 !important;
-}
 
-/* Tables */
-table {
-  color: #4A3A32;
-}
+/* ===== CARDS / CONTENT BLOCKS ===== */
 
-thread {
-  border-bottom: 2px solid  #E7D7D9;
-}
-
-tbody tr {
-border-bottom: 1px solid #EFE3E4;
-}
-
-/* Code blocks */
-code,
-pre {
-  color: #4A3A32;
-}
-
-/* Blockquotes */
-blockquote {
-  border-left: 4px solid #C9;
-  padding-left: 1rem;
-  color: #4A3A32;
-  background-color: rgba(241, 228, 230, 0.45);
-}
-
-/* Sidebar, TOC, Margin Content */
-.sidebar,
-#TOC,
-.toc.actions,
-.margin-sidebar {
-  color: #4A3A32;
-}
-
-/* Footer */
-.footer,
-.nav-footer {
-  color: #4A3A32 !important;
-  border-top: 1px solid #E7D7D9;
-}
-
-/* Form Fields */
-input,
-textarea,
-select {
-  color: #4A3A32;
-  background-color: #FFFFFF;
-  border: 1px solid #E7D7D9;
-}
-
-/* Selection Highlight */
-::selection {
-  background: #F1E4E6;
-  color: #2E2525;
-}
-
-.navbar > .container,
-.navbar > .container-fluid {
-  align-times: flex-start;
-}
-
-.navbar-brand {
-  display: block;
+.card,
+.quarto-grid-item,
+.panel,
+.content-block {
+  background-color: #F1E4E6 !important;
+  border: none !important;
+  border-radius: 10px;
 }
